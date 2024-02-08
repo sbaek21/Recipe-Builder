@@ -39,7 +39,11 @@ https://www.kaggle.com/datasets/niharika41298/nutrition-details-for-most-common-
 This is where you talk about what the website delivers. Talk about how a user would interact with the application (i.e., things that one could create, delete, update, or search for). Read the requirements for stage 4 to see what other functionalities you want to provide to the users. You should include:
 
 ### A low-fidelity UI mockup: 
-What do you imagine your final application’s interface might look like? A PowerPoint slide or a pencil sketch on a piece of paper works!
+
+
+![UI Mockup](https://github.com/AnaghaTiwari/anaghatiwari/blob/20180a7be2a1e4c22ff7eb072179013f8da0eeb8/Drawing.sketchpad.png)
+
+
 
 ### Project work distribution: 
 Who will be responsible for each of the tasks or subtasks?
