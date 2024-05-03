@@ -298,6 +298,15 @@ app.get('/api/MyRecipes/transact/:userID', function(req, res) {
         return;
     }
 
+    IF NOT EXISTS (SELECT UserID FROM User WHERE UserName = “username”) THEN
+	INSERT INTO User
+	VALUES(“00000”, “username1”);
+    END IF;
+
+    UPDATE User
+    SET UserName = “newusername”
+    WHERE UserName = “username”
+
         //add JOIN + GroupBY
     var sql = 
     //BEGIN;
