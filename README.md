@@ -58,8 +58,3 @@ If the ingredient of that dish exists in the second database, then the modal wil
 
 
 ![UI Mockup](https://github.com/AnaghaTiwari/anaghatiwari/blob/20180a7be2a1e4c22ff7eb072179013f8da0eeb8/Drawing.sketchpad.png)
-
-
-
-### Project work distribution: 
-<img width="571" alt="image" src="https://github.com/cs411-alawini/sp24-cs411-team035-dass/assets/62567659/20a83e43-55bb-4f77-a641-7bc31c8f97f9">
